@@ -65,3 +65,9 @@ footer {
   background-color: #76453b;
 }
 
+@media (max-width: 987px) {
+  .projects {
+    max-height: 110px !important;
+  }
+}
+
